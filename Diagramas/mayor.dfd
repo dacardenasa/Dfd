@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+numero1
+1
+0
+7
+numero2
+1
+0
+7
+numero3
+1
+0
+4
+1
+19
+'Digita 3  numeros'
+5
+1
+23
+numero1,numero2,numero3
+7
+0
+1
+39
+numero1 > numero2 and numero1 > numero3
+7
+0
+1
+39
+numero2 > numero1 and numero2 > numero3
+4
+1
+54
+'El numero ',numero3,' es el mayor de los 3  numeros' 
+13
+4
+1
+54
+'El numero ',numero2,' es el mayor de los 3  numeros' 
+13
+13
+4
+1
+54
+'El numero ',numero1,' es el mayor de los 3  numeros' 
+13
+1

@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+celcius
+1
+0
+4
+1
+40
+'Convertidor Grados Celcius a Farenheit'
+4
+1
+29
+'Digita los grados celcius: '
+5
+1
+7
+celcius
+6
+1
+9
+resultado
+14
+9/5*celcius+32
+4
+1
+38
+'Tus grados ferenheit son: ',resultado
+1

@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+numeros
+1
+0
+4
+suma
+1
+0
+5
+media
+1
+0
+6
+2
+9
+respuesta
+2
+''
+8
+cantidad
+1
+0
+9
+1
+16
+respuesta != 'N'
+4
+1
+21
+'Ingresa  un numero:'
+5
+1
+7
+numeros
+6
+2
+4
+suma
+14
+suma + numeros
+8
+cantidad
+12
+cantidad + 1
+4
+1
+38
+'Desea continuar ingresando numeros: '
+5
+1
+9
+respuesta
+11
+6
+1
+5
+media
+13
+suma/cantidad
+4
+1
+62
+'La media de los  ',cantidad,'  numeros ingresados es: ',media
+1

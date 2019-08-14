@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+nota1
+1
+0
+5
+nota2
+1
+0
+5
+nota3
+1
+0
+4
+1
+48
+'Ingresa las 3 notas obtenidas en el semestre: '
+5
+1
+17
+nota1,nota2,nota3
+6
+1
+9
+notafinal
+21
+(nota1+nota2+nota3)/3
+7
+0
+1
+17
+notafinal >= 10.5
+4
+1
+62
+'Reprobaste el semestre  con una nota promedio de: ',notafinal
+13
+4
+1
+62
+'Aprobaste el semestre con una   nota  promedio de:',notafinal
+13
+1

@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+2
+''
+4
+1
+41
+'Digita el  valor de un numero  entero: '
+5
+1
+1
+a
+4
+1
+41
+'Digita el valor de un numero  decimal: '
+5
+1
+1
+b
+4
+1
+34
+'Digita el  nombre de una fruta: '
+5
+1
+1
+c
+4
+1
+131
+'El numero entero  que digitaste es: ',a,', el numero decimal  que digitaste es: ',b,', el nombre de la fruta que digitaste es: ',c
+1

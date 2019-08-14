@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+hombres
+1
+0
+7
+mujeres
+1
+0
+4
+1
+62
+'ingresa la cantidad de hombres y mujeres que hay en el curso'
+5
+1
+15
+hombres,mujeres
+6
+3
+12
+totalAlumnos
+15
+hombres+mujeres
+11
+porcHombres
+26
+(100*hombres)/totalAlumnos
+11
+porcMujeres
+26
+(100*mujeres)/totalAlumnos
+4
+1
+118
+'El porcentaje de hombres que hay en el  curso son: ',porcHombres,'% y el porcentaje de mujeres son: ',porcMujeres,'%'
+1

@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+horas
+1
+0
+7
+minutos
+1
+0
+8
+segundos
+1
+0
+4
+1
+52
+'Ingresar el  numero de horas,  minutos y segundos:'
+5
+1
+22
+horas,minutos,segundos
+6
+3
+14
+calcHorasToSeg
+10
+horas*3600
+16
+calcMinutosToSeg
+10
+minutos*60
+13
+totalSegundos
+40
+calcHorasToSeg+calcMinutosToSeg+segundos
+4
+1
+75
+'El  numero total de segundos de los datos  ingresados son: ',totalSegundos
+1

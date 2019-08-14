@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+fin
+1
+0
+4
+suma
+1
+0
+8
+contador
+1
+0
+4
+1
+71
+'Suma de numeros pares de 1 hasta  N, por favor ingresa el valor de N:'
+5
+1
+3
+fin
+8
+1
+1
+i
+1
+1
+1
+1
+3
+fin
+1
+1
+1
+7
+0
+1
+11
+i mod 2 = 0
+13
+6
+2
+4
+suma
+8
+suma + i
+8
+contador
+10
+contador+1
+13
+10
+4
+1
+139
+'La cantidad de numeros pares que hay de 1 hasta ',fin,' es ',contador,' y el valor total de la suma de todos los numeros  pares es: ',suma
+1

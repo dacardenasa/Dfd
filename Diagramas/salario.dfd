@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+15
+salarioAnterior
+1
+0
+10
+incremento
+2
+25
+4
+1
+31
+'Digite el  salario anterior: '
+5
+1
+15
+salarioAnterior
+6
+2
+15
+valorIncremento
+34
+((salarioAnterior*incremento)/100)
+13
+salarioActual
+31
+salarioAnterior+valorIncremento
+4
+1
+38
+'Tu salario actual es: ',salarioActual
+1

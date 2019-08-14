@@ -1,0 +1,123 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+11
+colorBolita
+9
+random(5)
+11
+valorCompra
+1
+0
+9
+descuento
+1
+0
+4
+1
+45
+'Por favor  ingresa el  valor  de  tu compra'
+5
+1
+11
+valorCompra
+4
+1
+17
+'Saca una bolita'
+7
+0
+1
+15
+colorbolita = 1
+7
+0
+1
+15
+colorBolita = 2
+7
+0
+1
+15
+colorBolita = 3
+7
+0
+1
+15
+colorBolita = 4
+4
+1
+140
+'Felicitaciones, sacaste la bolita de color rojo, tienes un descuento del 100% en esta compra.  Puedes llevar esta compra de forma gratuita'
+13
+6
+2
+9
+descuento
+16
+valorCompra*0.50
+11
+precioFinal
+21
+valorCompra-descuento
+4
+1
+94
+'Felicitaciones, sacaste la bolita de color azul, tienes un descuento del 50% en esta compra.'
+4
+1
+69
+'El valor a pagar en esta compra con el  descuento es: $',precioFinal
+13
+13
+6
+2
+9
+descuento
+16
+valorCompra*0.25
+11
+precioFinal
+21
+valorCompra-descuento
+4
+1
+98
+'Felicitaciones, sacaste la bolita de color amarillo, tienes un descuento del 25% en esta compra.'
+4
+1
+69
+'El valor a pagar en esta compra con el  descuento es: $',precioFinal
+13
+13
+6
+2
+9
+descuento
+16
+valorCompra*0.10
+11
+precioFinal
+21
+valorCompra-descuento
+4
+1
+96
+'Felicitaciones, sacaste la bolita de color verde, tienes un descuento del  10% en esta compra.'
+4
+1
+69
+'El valor a pagar en esta compra con el  descuento es: $',precioFinal
+13
+13
+4
+1
+109
+'Sacaste la  bolita blanca, lo siento no tienes descuento en esta compra, el valor a pagar es: $',valorCompra
+13
+1

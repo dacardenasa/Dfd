@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+1
+0
+4
+1
+26
+'Ingresa el primer numero'
+5
+1
+1
+a
+4
+1
+27
+'Ingresa el segundo numero'
+5
+1
+1
+b
+4
+1
+26
+'Ingresa el tercer numero'
+5
+1
+1
+c
+6
+1
+5
+media
+9
+(a+b+c)/3
+4
+1
+50
+'La media aritmetica de los 3  numeros es: ',media
+1

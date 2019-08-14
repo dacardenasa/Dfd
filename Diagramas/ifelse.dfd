@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+edad
+1
+0
+4
+1
+45
+'Ingresa tu edad para saber si puedes votar:'
+5
+1
+4
+edad
+7
+0
+1
+10
+edad >= 18
+4
+1
+17
+'No puedes votar'
+13
+4
+1
+17
+'Si puedes votar'
+13
+1

@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+11
+valorCompra
+1
+0
+9
+descuento
+1
+0
+11
+precioFinal
+1
+0
+4
+1
+35
+'Ingresa el  valor de  tu compra: '
+5
+1
+11
+valorCompra
+7
+0
+1
+18
+valorCompra > 1000
+4
+1
+154
+'El valor final de  tu compra es $',valorCompra,', recuerda que por compras mayores a $1000 pesos recibes un descuento del 20% por el valor de tu compra.'
+13
+6
+2
+9
+descuento
+16
+valorCompra*0.20
+11
+precioFinal
+21
+valorCompra-descuento
+4
+1
+100
+'El valor a pagar menos el descuento del 20% por compras mayores a $1000 pesos es $',precioFinal,'.'
+13
+1

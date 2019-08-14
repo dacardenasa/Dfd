@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+horas
+1
+0
+7
+salario
+1
+0
+10
+horasExtra
+1
+0
+4
+1
+18
+'Digita tus horas'
+5
+1
+5
+horas
+7
+0
+1
+11
+horas <= 40
+6
+3
+10
+horasExtra
+8
+horas-40
+11
+valorExtras
+13
+horasExtra*20
+7
+salario
+19
+(40*16)+valorExtras
+4
+1
+72
+'Su salario es: $',salario,' por las ',horas,' horas laboradas este mes'
+13
+6
+1
+7
+salario
+8
+horas*16
+4
+1
+72
+'Su salario es: $',salario,' por las ',horas,' horas laboradas este mes'
+13
+1

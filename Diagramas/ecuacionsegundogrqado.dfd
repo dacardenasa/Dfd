@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+1
+0
+6
+2
+10
+respuesta1
+1
+0
+10
+respuesta2
+1
+0
+4
+1
+72
+'Ingresa 3 numeros para resolver la ecuacion de segundo grado por favor'
+5
+1
+5
+a,b,c
+6
+1
+1
+d
+13
+(b*b - 4*a*c)
+7
+0
+1
+5
+d > 0
+4
+1
+36
+'La ecuacion no tiene solucion real'
+13
+6
+2
+10
+respuesta1
+18
+(-b+sqrt(d))/(2*a)
+10
+respuesta2
+18
+(-b-sqrt(d))/(2*a)
+4
+1
+145
+'La respuesta de la  primera  ecuacion de segundo grado con los valores ingresados es: ',respuesta1,' y el  segundo resultado es ',respuesta2,'.'
+13
+1

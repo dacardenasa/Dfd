@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+numero1
+1
+0
+7
+numero2
+1
+0
+7
+numero3
+1
+0
+4
+1
+45
+'Ingresa los  3  numeros de forma  creciente'
+5
+1
+23
+numero1,numero2,numero3
+7
+0
+1
+40
+numero1 < numero2 and  numero2 < numero3
+4
+1
+72
+'Los numeros no se ingresaron de forma creciente,  vuelve a intentarlo!'
+13
+4
+1
+47
+'Los numeros se  ingresaron de forma creciente'
+13
+1

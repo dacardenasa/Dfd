@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+1
+7
+minutos
+1
+0
+4
+1
+52
+'Ingresa los segundos a convertir en Horas:Minutos:'
+5
+1
+7
+minutos
+12
+1
+6
+tiempo
+1
+7
+minutos
+1
+2
+1
+6
+tiempo
+1
+7
+minutos
+0
+6
+2
+5
+horas
+17
+trunc(minutos/60)
+7
+minutos
+14
+minutos mod 60
+4
+1
+26
+'HH:',horas,' MM:',minutos
+3

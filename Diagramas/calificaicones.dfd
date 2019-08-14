@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+12
+notaParcial1
+1
+0
+12
+notaParcial2
+1
+0
+12
+notaParcial3
+1
+0
+6
+2
+15
+notaExamenFinal
+1
+0
+16
+notaTrabajoFInal
+1
+0
+4
+1
+33
+'Ingresa calificacion parcial 1:'
+5
+1
+11
+notaParcial
+4
+1
+34
+'Ingresa calificacion parcial  2:'
+5
+1
+12
+notaParcial2
+4
+1
+34
+'Ingresa calificacion parcial 3: '
+5
+1
+12
+notaParcial3
+4
+1
+37
+'Ingresa calificacion examen final: '
+5
+1
+15
+notaExamenFinal
+4
+1
+38
+'Ingresa calificacion trabajo final: '
+5
+1
+16
+notaTrabajoFinal
+6
+1
+9
+notaFinal
+70
+notaParcial+notaParcial2+notaParcial3+notaExamenFinal+notaTrabajoFinal
+4
+1
+30
+'Su nota final es: ',notaFinal
+1

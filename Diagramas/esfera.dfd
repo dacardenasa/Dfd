@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+r
+1
+0
+4
+1
+69
+'Ingresa el  radio de  la esfera para calcular su volumen y el area:'
+5
+1
+1
+r
+6
+2
+1
+A
+14
+4*r^2*3.141592
+1
+V
+16
+4/3*r^3*3.141592
+4
+1
+78
+'El area de la  esfera es ',A,' y el volumen es  igual a:',V,' metros cubicos'
+1
